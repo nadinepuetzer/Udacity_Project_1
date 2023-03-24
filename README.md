@@ -1,5 +1,6 @@
 # Udacity_Project_1
 # Writing a Data Scientist Blog Post
+Follow the link to my blog post here: https://medium.com/@nadine.puetzer1/did-you-know-the-best-time-to-visit-seattle-6feaf6809446
 
 ## My Motivation
 I'm planning a trip to seattle but I have no preferred season or appartment yet. With the help of the open source data set from AirBnB I want to understand, in which season most people visit Seattle. Secondly, I want to book a cheep house, that costs at least 50$ per night and is available for 13 consecutive nights.
